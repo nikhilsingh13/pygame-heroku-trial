@@ -1,2 +1,2 @@
 pygame==2.1.2
-random
+random==3.11.0
